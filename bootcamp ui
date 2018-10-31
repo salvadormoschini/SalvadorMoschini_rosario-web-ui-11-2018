@@ -1,0 +1,6 @@
+echo "# SalvadorMoschini_rosario-web-ui-11-2018" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/salvadormoschini/SalvadorMoschini_rosario-web-ui-11-2018.git
+git push -u origin master
